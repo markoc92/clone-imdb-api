@@ -50,7 +50,7 @@ or
 * enter username,email,password,password2 in Postman for obtaining Token
 * When you register or log user in, set header Authorization as key and Token{value} as value
 
-## 3. List of available API routes
+## 4. List of available API routes
 **Register Account**\
 `POST: http://127.0.0.1:8000/account/register/`\
 **Login Account**\
